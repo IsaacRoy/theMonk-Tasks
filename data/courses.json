@@ -3,90 +3,120 @@
     "id": 1,
     "title": "Introduction to JavaScript",
     "category": "programming",
-    "description": "Learn the basics of JavaScript programming"
+    "description": "Learn the basics of JavaScript programming",
+    "price": 99.99,
+    "instructor": "John Doe"
   },
   {
     "id": 2,
     "title": "React Fundamentals",
     "category": "frontend",
-    "description": "Master React components and hooks"
+    "description": "Master React components and hooks",
+    "price": 129.99,
+    "instructor": "Jane Smith"
   },
   {
     "id": 3,
     "title": "Node.js Backend Development",
     "category": "backend",
-    "description": "Build scalable server applications"
+    "description": "Build scalable server applications",
+    "price": 149.99,
+    "instructor": "Mike Johnson"
   },
   {
     "id": 4,
     "title": "Database Design Principles",
     "category": "database",
-    "description": "Design efficient database schemas"
+    "description": "Design efficient database schemas",
+    "price": 119.99,
+    "instructor": "Sarah Wilson"
   },
   {
     "id": 5,
     "title": "CSS Grid and Flexbox",
     "category": "css",
-    "description": "Master modern CSS layout techniques"
+    "description": "Master modern CSS layout techniques",
+    "price": 89.99,
+    "instructor": "Emily Davis"
   },
   {
     "id": 6,
     "title": "TypeScript Best Practices",
     "category": "programming",
-    "description": "Write type-safe JavaScript applications"
+    "description": "Write type-safe JavaScript applications",
+    "price": 139.99,
+    "instructor": "Alex Brown"
   },
   {
     "id": 7,
     "title": "API Design Patterns",
     "category": "backend",
-    "description": "Design RESTful and GraphQL APIs"
+    "description": "Design RESTful and GraphQL APIs",
+    "price": 159.99,
+    "instructor": "Chris Lee"
   },
   {
     "id": 8,
     "title": "Docker Containerization",
     "category": "devops",
-    "description": "Package applications with Docker"
+    "description": "Package applications with Docker",
+    "price": 179.99,
+    "instructor": "Sam Taylor"
   },
   {
     "id": 9,
     "title": "Testing React Applications",
     "category": "testing",
-    "description": "Unit and integration testing strategies"
+    "description": "Unit and integration testing strategies",
+    "price": 109.99,
+    "instructor": "Lisa Anderson"
   },
   {
     "id": 10,
     "title": "Performance Optimization",
     "category": "performance",
-    "description": "Optimize web application performance"
+    "description": "Optimize web application performance",
+    "price": 169.99,
+    "instructor": "David Miller"
   },
   {
     "id": 11,
     "title": "GraphQL Fundamentals",
     "category": "backend",
-    "description": "Query APIs with GraphQL"
+    "description": "Query APIs with GraphQL",
+    "price": 134.99,
+    "instructor": "Rachel Green"
   },
   {
     "id": 12,
     "title": "Vue.js Components",
     "category": "frontend",
-    "description": "Build reactive components with Vue"
+    "description": "Build reactive components with Vue",
+    "price": 124.99,
+    "instructor": "Tom Wilson"
   },
   {
     "id": 13,
     "title": "MongoDB Aggregations",
     "category": "database",
-    "description": "Advanced database query patterns"
+    "description": "Advanced database query patterns",
+    "price": 144.99,
+    "instructor": "Anna Garcia"
   },
   {
     "id": 14,
     "title": "AWS Cloud Services",
     "category": "cloud",
-    "description": "Deploy applications on AWS"
+    "description": "Deploy applications to AWS",
+    "price": 199.99,
+    "instructor": "Kevin Martinez"
   },
   {
     "id": 15,
     "title": "Machine Learning Basics",
     "category": "ai",
-    "description": "Introduction to ML algorithms"
+    "description": "Introduction to ML algorithms",
+    "price": 249.99,
+    "instructor": "Dr. Susan Chen"
   }
 ]
